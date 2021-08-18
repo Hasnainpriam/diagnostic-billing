@@ -1,0 +1,27 @@
+E:\Work Place\project\github\Diagnostic-Center-Bill-Management-System\Diagnostic-Center-Bill-Management-System\bin\Diagnostic-Center-Bill-Management-System.dll.config
+E:\Work Place\project\github\Diagnostic-Center-Bill-Management-System\Diagnostic-Center-Bill-Management-System\bin\Diagnostic-Center-Bill-Management-System.dll
+E:\Work Place\project\github\Diagnostic-Center-Bill-Management-System\Diagnostic-Center-Bill-Management-System\bin\Diagnostic-Center-Bill-Management-System.pdb
+E:\Work Place\project\github\Diagnostic-Center-Bill-Management-System\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.csprojResolveAssemblyReference.cache
+E:\Work Place\project\github\Diagnostic-Center-Bill-Management-System\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.dll
+E:\Work Place\project\github\Diagnostic-Center-Bill-Management-System\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.pdb
+C:\Users\Nazmul Rion\Desktop\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\bin\Diagnostic-Center-Bill-Management-System.dll.config
+C:\Users\Nazmul Rion\Desktop\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\bin\Diagnostic-Center-Bill-Management-System.dll
+C:\Users\Nazmul Rion\Desktop\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\bin\Diagnostic-Center-Bill-Management-System.pdb
+C:\Users\Nazmul Rion\Desktop\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.csproj.AssemblyReference.cache
+C:\Users\Nazmul Rion\Desktop\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.csproj.CoreCompileInputs.cache
+C:\Users\Nazmul Rion\Desktop\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.dll
+C:\Users\Nazmul Rion\Desktop\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.pdb
+C:\SQL2019\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\bin\Diagnostic-Center-Bill-Management-System.dll.config
+C:\SQL2019\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\bin\Diagnostic-Center-Bill-Management-System.dll
+C:\SQL2019\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\bin\Diagnostic-Center-Bill-Management-System.pdb
+C:\SQL2019\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.csproj.CoreCompileInputs.cache
+C:\SQL2019\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.dll
+C:\SQL2019\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.pdb
+C:\SQL2019\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.csproj.AssemblyReference.cache
+G:\For Labib\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\bin\Diagnostic-Center-Bill-Management-System.dll.config
+G:\For Labib\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\bin\Diagnostic-Center-Bill-Management-System.dll
+G:\For Labib\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\bin\Diagnostic-Center-Bill-Management-System.pdb
+G:\For Labib\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.csproj.AssemblyReference.cache
+G:\For Labib\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.csproj.CoreCompileInputs.cache
+G:\For Labib\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.dll
+G:\For Labib\Diagnostic-Center-Bill-Management-System-master\Diagnostic-Center-Bill-Management-System\obj\Debug\Diagnostic-Center-Bill-Management-System.pdb
